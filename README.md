@@ -24,6 +24,7 @@
       <p>Make sure to follow the recipe thouroughly to get the best result</p>
     </div>
     <div id="ingredients">
+      <h2>Ingredients</h2>
       <ul>
         <p>1 cup all-purpose flour</p>
         <p>1/2 teaspoon baking poweder</p>
