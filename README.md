@@ -22,7 +22,17 @@
       <p>Make sure to follow the recipe thouroughly to get the best result</p>
     </div>
     <div id="ingredients">
-      
+      <p>1 cup all-purpose flour</p>
+      <p>1/2 teaspoon baking poweder</p>
+      <p>1/2 teaspoon salt</p>
+      <p>1/2 cup unsweetened cocoa powder</p>
+      <p>3/4 cup unslated butter</p>
+      <p>2 tablespoons oil (any kind will do)</p>
+      <p>1 and 1/3 cups granulated sugar (divided)</p>
+      <p>2 large egs</p>
+      <p>1 large egg yolk</p>
+      <p>2 teaspoons vanilla extract</p>
+      <p>3/4 cup chocolate chips</p>
     </div>
   </main>
       
