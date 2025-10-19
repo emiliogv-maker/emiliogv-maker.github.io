@@ -9,6 +9,7 @@
 <body>
   <header>
     <h1>Brownie Recipe</h1>
+    <p>This recipe is taken directly from Baker By Nature with Ashley Manila</p> 
     <nav>
       <ul>
         <li><a href="README.md" class="active">Home</a></li>
