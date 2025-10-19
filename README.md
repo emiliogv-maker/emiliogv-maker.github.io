@@ -8,8 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>Brownie Recipe</h1>
-    <p>This recipe is taken directly from Baker By Nature with Ashley Manila</p> 
+    <h1>Brownie Recipe</h1> 
     <nav>
       <ul>
         <li><a href="README.md" class="active">Home</a></li>
@@ -20,6 +19,7 @@
   <main>
     <div id="welcome">
       <h2>Welcome to this recipe</h2>
+      <p>This recipe is taken directly from Baker By Nature with Ashley Manila</p>
       <p>Make sure to follow the recipe thouroughly to get the best result</p>
     </div>
     <div id="ingredients">
