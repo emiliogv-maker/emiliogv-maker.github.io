@@ -20,6 +20,7 @@
     <div id="welcome">
       <h2>Welcome to this recipe</h2>
       <p>This recipe is taken directly from Baker By Nature with Ashley Manila</p>
+      <p>Here is the link to the original recipe: <a href="https://bakerbynature.com/the-best-cocoa-fudge-brownies/"> The Best Fudge Brownies</a></p>
       <p>Make sure to follow the recipe thouroughly to get the best result</p>
     </div>
     <div id="ingredients">
