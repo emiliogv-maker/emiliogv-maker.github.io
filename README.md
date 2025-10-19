@@ -22,17 +22,33 @@
       <p>Make sure to follow the recipe thouroughly to get the best result</p>
     </div>
     <div id="ingredients">
-      <p>1 cup all-purpose flour</p>
-      <p>1/2 teaspoon baking poweder</p>
-      <p>1/2 teaspoon salt</p>
-      <p>1/2 cup unsweetened cocoa powder</p>
-      <p>3/4 cup unslated butter</p>
-      <p>2 tablespoons oil (any kind will do)</p>
-      <p>1 and 1/3 cups granulated sugar (divided)</p>
-      <p>2 large egs</p>
-      <p>1 large egg yolk</p>
-      <p>2 teaspoons vanilla extract</p>
-      <p>3/4 cup chocolate chips</p>
+      <ul>
+        <p>1 cup all-purpose flour</p>
+        <p>1/2 teaspoon baking poweder</p>
+        <p>1/2 teaspoon salt</p>
+        <p>1/2 cup unsweetened cocoa powder</p>
+        <p>3/4 cup unslated butter</p>
+        <p>2 tablespoons oil (any kind will do)</p>
+        <p>1 and 1/3 cups granulated sugar (divided)</p>
+        <p>2 large egs</p>
+        <p>1 large egg yolk</p>
+        <p>2 teaspoons vanilla extract</p>
+        <p>3/4 cup chocolate chips</p>
+      </ul>
+    </div>
+    <div id="instructions">
+      <h2>Instructions</h2>
+      <ol>
+        <p>1. Preheat oven to 350 degrees (F) (175 degreed C). Line an 9×9-inch baking pan with parchment paper. Spray lightly with non-stick baking spray and set aside.</p>
+        <p>2. In a large bowl, sift together the flour, baking powder, salt, cocoa powder, and espresso powder. Set aside until needed.</p>
+        <p>3. In a medium saucepan, combine the butter, oil, and 1/3 cup of the sugar. Heat over medium heat, stirring frequently, until butter is completely melted. Remove from heat.</p>
+        <p>4. In a large mixing bowl, combine the eggs, egg yolk, vanilla (if using) and remaining sugar. Whisk until well combined, about 30 seconds.</p>
+        <p>5. Slowly, pour the warm butter mixture into the egg mixture, adding it very gradually (a little bit at a time) and whisking constantly until completely combined.</p>
+        <p>6. Add in the dry ingredients and chocolate chips and, using a rubber spatula, slowly stir until just combined. *Do not over mix! Stop stirring when you see the last trace of dry ingredients. Over mixing will give you cakey brownies. </p>
+        <p>7. Scrape the batter into the prepared pan and smooth the top.</p>
+        <p>8. Bake for 28 (to 30 minutes) or until the edges are firm and the top is shiny and slightly cracked. </p>
+        <p>9. Place pan on a cooling rack and cool completely before slicing.</p>
+      </ol>
     </div>
   </main>
       
