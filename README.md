@@ -16,7 +16,6 @@
         <li><a href="contact.html">Contact</a></li>
       </ul>
   </header>
-
   <main>
     <div id="welcome">
       <h2>Welcome to this recipe</h2>
