@@ -66,6 +66,8 @@ h2 {
 
 .brownie-side {
     float:right;
+    vertical-align: middle;
+    display: block;
 }
 
 form {
