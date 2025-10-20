@@ -64,6 +64,10 @@ h2 {
     width: 50%;
 }
 
+.brownie-side {
+    float:left;
+}
+
 form {
     display: flex;
     flex-direction: column;
